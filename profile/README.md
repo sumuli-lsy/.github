@@ -11,3 +11,9 @@
 Your Favorite CutefishOS are back now！
 
 New website in the works (coming soon)...
+
+## Bienvenue à nouveau!
+
+Votre poisson mignon préféré est de retour！
+
+Un nouveau site officiel est en préparation (à venir)...
